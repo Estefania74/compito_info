@@ -1,1 +1,6 @@
-
+body{
+    font-family: Arial,  sans-serif; /* font */
+    font-size: 11px; /* dimensione font */
+    background-color: #ffffff; /* colore sfondo sito */
+    color: #333333; /* colore del testo */ 
+}
